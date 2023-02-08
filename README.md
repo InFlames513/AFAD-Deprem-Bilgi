@@ -5,6 +5,8 @@
 <b>4.</b> Terminali açın ve npm init -y yazın, package.json dosyası oluşturulacaktır.<br>
 <b>5.</b> package.json dosyasına gelin ve sondaki "name" ile başlayan satırın altına "type": "module",   ekleyin.<br>
 <b>6.</b> Kurulum tamamdır terminale node . yazarak projeyi başlatabilirsiniz.
+<br><br>
+Bu altyapı MIT lisansı ile korunmaktadır izinsiz farklı platformlarda paylaşmak yasaktır.
 
 # İletişim
 Yardıma ihtiyacınız olursa: <br>
