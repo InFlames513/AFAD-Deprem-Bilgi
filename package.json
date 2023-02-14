@@ -1,0 +1,19 @@
+{
+  "name": "deprem",
+  "version": "1.0.0",
+  "description": "Covid-19 #code sunucusuna ait deprem bildirim botu",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "got": "^12.5.3",
+    "node-html-parser": "^6.1.4",
+    "nodejs-krdae-earthquake-api": "^1.5.4"
+  }
+}
